@@ -92,6 +92,31 @@
         "title": "http://localhost:4200",
         "url": "http://localhost:4200",
         "favicon_domain": "localhost"
+      },
+      {
+        "title": "Meps dev",
+        "url": "https://dev.meps.se",
+        "favicon_domain": "dev.meps.se"
+      },
+      {
+        "title": "Meps test",
+        "url": "https://test.meps.se",
+        "favicon_domain": "test.meps.se"
+      },
+      {
+        "title": "Meps QA",
+        "url": "https://qa.meps.se",
+        "favicon_domain": "qa.meps.se"
+      },
+      {
+        "title": "Meps Staging",
+        "url": "https://staging.meps.net",
+        "favicon_domain": "staging.meps.net"
+      },
+      {
+        "title": "Meps Prod",
+        "url": "https://meps.net",
+        "favicon_domain": "meps.net"
       }
     ]
   },
