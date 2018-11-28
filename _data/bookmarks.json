@@ -113,7 +113,7 @@
     "items": [
       {
         "title": "Edit bookmarks",
-        "url": "https://github.com/larsabrasha/bookmarks/blob/master/_data/bookmarks.json",
+        "url": "https://github.com/larsabrasha/bookmarks/edit/master/_data/bookmarks.json",
         "favicon_domain": "github.com"
       }
     ]
