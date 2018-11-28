@@ -2,6 +2,11 @@
   {
     "items": [
       {
+        "title": "Backlog items",
+        "url": "http://tfs/tfs/MEPS/MEPS/Carbo/_backlogs/board/Backlog%20items",
+        "favicon_domain": "cab.se"
+      },
+      {
         "title": "TeamCity",
         "url": "http://teamcity/overview.html",
         "favicon_domain": "jetbrains.com"
@@ -12,24 +17,10 @@
         "favicon_domain": "octopus.com"
       },
       {
-        "title": "CAB Sverige",
-        "url": "https://cabnet.sharepoint.com/cabsverige",
-        "favicon_domain": "cab.se"
-      },
-      {
-        "title": "Backlog items",
-        "url": "http://tfs/tfs/MEPS/MEPS/Carbo/_backlogs/board/Backlog%20items",
-        "favicon_domain": "cab.se"
-      },
-      {
         "title": "Azure Portal",
         "url": "https://portal.azure.com",
         "favicon_domain": "azure.com"
-      }
-    ]
-  },
-  {
-    "items": [
+      },
       {
         "title": "Freshdesk",
         "url": "https://cabgroup.freshdesk.com/a/tickets/filters/211653",
@@ -44,6 +35,15 @@
         "title": "Raygun Prod",
         "url": "https://app.raygun.com/crashreporting/f9bd0u",
         "favicon_domain": "app.raygun.com"
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "title": "CAB Sverige",
+        "url": "https://cabnet.sharepoint.com/cabsverige",
+        "favicon_domain": "cab.se"
       },
       {
         "title": "CAB Map",
@@ -94,12 +94,12 @@
         "favicon_domain": "localhost"
       },
       {
-        "title": "Meps dev",
+        "title": "Meps Dev",
         "url": "https://dev.meps.se",
         "favicon_domain": "dev.meps.se"
       },
       {
-        "title": "Meps test",
+        "title": "Meps Test",
         "url": "https://test.meps.se",
         "favicon_domain": "test.meps.se"
       },
