@@ -36,8 +36,13 @@
         "favicon_domain": "freshdesk.com"
       },
       {
-        "title": "Raygun",
-        "url": "https://app.raygun.com/crashreporting/88bhhi?#active",
+        "title": "Raygun QA",
+        "url": "https://app.raygun.com/crashreporting/88bhhi",
+        "favicon_domain": "app.raygun.com"
+      },
+      {
+        "title": "Raygun Prod",
+        "url": "https://app.raygun.com/crashreporting/f9bd0u",
         "favicon_domain": "app.raygun.com"
       },
       {
