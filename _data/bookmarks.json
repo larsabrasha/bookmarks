@@ -123,27 +123,27 @@
   {
     "items": [
       {
-        "title": "Property Config Dev,
+        "title": "Property Config Dev",
         "url": "https://propertyconfigwebdev.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Config Test,
+        "title": "Property Config Test",
         "url": "https://propertyconfigwebtest.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Config QA,
+        "title": "Property Config QA",
         "url": "https://propertyconfigwebqa.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Config Staging,
+        "title": "Property Config Staging",
         "url": "https://propertyconfigwebstaging.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Config Prod,
+        "title": "Property Config Prod",
         "url": "https://propertyconfigwebprod.azurewebsites.net/",
         "favicon_domain": "meps.net"
       }
@@ -152,27 +152,27 @@
   {
     "items": [
       {
-        "title": "Property Toggles Dev,
+        "title": "Property Toggles Dev",
         "url": "https://propertytoggleswebdev.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Toggles Test,
+        "title": "Property Toggles Test",
         "url": "https://propertytoggleswebtest.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Toggles QA,
+        "title": "Property Toggles QA",
         "url": "https://propertytoggleswebqa.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Toggles Staging,
+        "title": "Property Toggles Staging",
         "url": "https://propertytoggleswebstaging.azurewebsites.net/",
         "favicon_domain": "meps.net"
       },
       {
-        "title": "Property Toggles Prod,
+        "title": "Property Toggles Prod",
         "url": "https://propertytoggleswebprod.azurewebsites.net/",
         "favicon_domain": "meps.net"
       }
