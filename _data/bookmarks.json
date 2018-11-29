@@ -123,6 +123,64 @@
   {
     "items": [
       {
+        "title": "Property Config Dev,
+        "url": "https://propertyconfigwebdev.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Config Test,
+        "url": "https://propertyconfigwebtest.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Config QA,
+        "url": "https://propertyconfigwebqa.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Config Staging,
+        "url": "https://propertyconfigwebstaging.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Config Prod,
+        "url": "https://propertyconfigwebprod.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "title": "Property Toggles Dev,
+        "url": "https://propertytoggleswebdev.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Toggles Test,
+        "url": "https://propertytoggleswebtest.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Toggles QA,
+        "url": "https://propertytoggleswebqa.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Toggles Staging,
+        "url": "https://propertytoggleswebstaging.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      },
+      {
+        "title": "Property Toggles Prod,
+        "url": "https://propertytoggleswebprod.azurewebsites.net/",
+        "favicon_domain": "meps.net"
+      }
+    ]
+  },
+  {
+    "items": [
+      {
         "title": "Väder i Örebro",
         "url": "https://www.yr.no/place/Sverige/%C3%96rebro/%C3%96rebro/avansert_meteogram.svg",
         "favicon_domain": "yr.no"
@@ -131,11 +189,7 @@
         "title": "Romme - Öppna backar och liftar",
         "url": "https://www.rommealpin.se/sv/skidakning/oppna-backar-och-liftar",
         "favicon_domain": "rommealpin.se"
-      }
-    ]
-  },
-  {
-    "items": [
+      },
       {
         "title": "Edit bookmarks",
         "url": "https://github.com/larsabrasha/bookmarks/edit/master/_data/bookmarks.json",
