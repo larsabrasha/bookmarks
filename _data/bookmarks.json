@@ -1,199 +1,237 @@
 [
   {
-    "items": [
+    "groups": [
       {
-        "title": "Backlog items",
-        "url": "http://tfs/tfs/MEPS/MEPS/Carbo/_backlogs/board/Backlog%20items",
-        "favicon_domain": "cab.se"
+        "items": [
+          {
+            "title": "SVT Nyheter",
+            "url": "https://www.svt.se/nyheter/",
+            "favicon_domain": "svt.se"
+          },
+          {
+            "title": "SVT Sport",
+            "url": "https://www.svt.se/sport/",
+            "favicon_domain": "svt.se"
+          },
+          {
+            "title": "DN",
+            "url": "https://www.dn.se/",
+            "favicon_domain": "dn.se"
+          },
+          {
+            "title": "NA",
+            "url": "https://www.na.se/",
+            "favicon_domain": "na.se"
+          },
+          {
+            "title": "Metro Gaming",
+            "url": "https://metro.co.uk/entertainment/gaming/",
+            "favicon_domain": "metro.co.uk"
+          },
+          {
+            "title": "Feedly",
+            "url": "https://feedly.com/i/my",
+            "favicon_domain": "feedly.comt"
+          },
+          {
+            "title": "Väder i Örebro",
+            "url": "https://www.yr.no/place/Sverige/%C3%96rebro/%C3%96rebro/avansert_meteogram.svg",
+            "favicon_domain": "yr.no"
+          },
+          {
+            "title": "Romme - Öppna backar och liftar",
+            "url": "https://www.rommealpin.se/sv/skidakning/oppna-backar-och-liftar",
+            "favicon_domain": "rommealpin.se"
+          }
+        ]
       },
       {
-        "title": "TeamCity",
-        "url": "http://teamcity/overview.html",
-        "favicon_domain": "jetbrains.com"
+        "items": [
+          {
+            "title": "Backlog items",
+            "url": "http://tfs/tfs/MEPS/MEPS/Carbo/_backlogs/board/Backlog%20items",
+            "favicon_domain": "cab.se"
+          },
+          {
+            "title": "TeamCity",
+            "url": "http://teamcity/overview.html",
+            "favicon_domain": "jetbrains.com"
+          },
+          {
+            "title": "Octopus Deploy",
+            "url": "http://tfsdeploy01/app#/",
+            "favicon_domain": "octopus.com"
+          },
+          {
+            "title": "Azure Portal",
+            "url": "https://portal.azure.com",
+            "favicon_domain": "azure.com"
+          },
+          {
+            "title": "Freshdesk",
+            "url": "https://cabgroup.freshdesk.com/a/tickets/filters/211653",
+            "favicon_domain": "freshdesk.com"
+          },
+          {
+            "title": "CAB Sverige",
+            "url": "https://cabnet.sharepoint.com/cabsverige",
+            "favicon_domain": "cab.se"
+          },
+          {
+            "title": "CAB Map",
+            "url": "https://cabmap.azurewebsites.net/",
+            "favicon_domain": "cabmap.azurewebsites.net"
+          }
+        ]
       },
       {
-        "title": "Octopus Deploy",
-        "url": "http://tfsdeploy01/app#/",
-        "favicon_domain": "octopus.com"
+        "items": [
+          {
+            "title": "Meps New Calculation localhost",
+            "url": "http://localhost:4200",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Meps Dev",
+            "url": "https://dev.meps.se",
+            "favicon_domain": "dev.meps.se"
+          },
+          {
+            "title": "Meps Test",
+            "url": "https://test.meps.se",
+            "favicon_domain": "test.meps.se"
+          },
+          {
+            "title": "Meps QA",
+            "url": "https://qa.meps.se",
+            "favicon_domain": "qa.meps.se"
+          },
+          {
+            "title": "Meps Staging",
+            "url": "https://staging.meps.net",
+            "favicon_domain": "staging.meps.net"
+          },
+          {
+            "title": "Meps Prod",
+            "url": "https://meps.net",
+            "favicon_domain": "meps.net"
+          }
+        ]
       },
       {
-        "title": "Azure Portal",
-        "url": "https://portal.azure.com",
-        "favicon_domain": "azure.com"
+        "items": [
+          {
+            "title": "Property Config Dev",
+            "url": "https://propertyconfigwebdev.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Config Test",
+            "url": "https://propertyconfigwebtest.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Config QA",
+            "url": "https://propertyconfigwebqa.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Config Staging",
+            "url": "https://propertyconfigwebstaging.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Config Prod",
+            "url": "https://propertyconfigwebprod.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Config Edu",
+            "url": "https://propertyconfigwebedu.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          }
+        ]
       },
       {
-        "title": "Freshdesk",
-        "url": "https://cabgroup.freshdesk.com/a/tickets/filters/211653",
-        "favicon_domain": "freshdesk.com"
+        "items": [
+          {
+            "title": "Property Toggles Dev",
+            "url": "https://propertytoggleswebdev.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Toggles Test",
+            "url": "https://propertytoggleswebtest.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Toggles QA",
+            "url": "https://propertytoggleswebqa.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Toggles Staging",
+            "url": "https://propertytoggleswebstaging.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Toggles Prod",
+            "url": "https://propertytoggleswebprod.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Toggles Edu",
+            "url": "https://propertytoggleswebedu.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          }
+        ]
       },
       {
-        "title": "Raygun QA",
-        "url": "https://app.raygun.com/crashreporting/88bhhi",
-        "favicon_domain": "app.raygun.com"
-      },
-      {
-        "title": "Raygun Prod",
-        "url": "https://app.raygun.com/crashreporting/f9bd0u",
-        "favicon_domain": "app.raygun.com"
+        "items": [
+          {
+            "title": "Raygun Dev",
+            "url": "https://app.raygun.com/crashreporting/88bh7a",
+            "favicon_domain": "app.raygun.com"
+          },
+          {
+            "title": "Raygun Test",
+            "url": "https://app.raygun.com/crashreporting/88bhg0",
+            "favicon_domain": "app.raygun.com"
+          },
+          {
+            "title": "Raygun QA",
+            "url": "https://app.raygun.com/crashreporting/88bhhi",
+            "favicon_domain": "app.raygun.com"
+          },
+          {
+            "title": "Raygun Staging",
+            "url": "https://app.raygun.com/crashreporting/fo2uua",
+            "favicon_domain": "app.raygun.com"
+          },
+          {
+            "title": "Raygun Prod",
+            "url": "https://app.raygun.com/crashreporting/f9bd0u",
+            "favicon_domain": "app.raygun.com"
+          },
+          {
+            "title": "Raygun Edu",
+            "url": "https://app.raygun.com/crashreporting/fr37wn",
+            "favicon_domain": "app.raygun.com"
+          }
+        ]
       }
     ]
   },
   {
-    "items": [
+    "groups": [
       {
-        "title": "CAB Sverige",
-        "url": "https://cabnet.sharepoint.com/cabsverige",
-        "favicon_domain": "cab.se"
-      },
-      {
-        "title": "CAB Map",
-        "url": "https://cabmap.azurewebsites.net/",
-        "favicon_domain": "cabmap.azurewebsites.net"
-      }
-    ]
-  },
-  {
-    "items": [
-      {
-        "title": "SVT Nyheter",
-        "url": "https://www.svt.se/nyheter/",
-        "favicon_domain": "svt.se"
-      },
-      {
-        "title": "SVT Sport",
-        "url": "https://www.svt.se/sport/",
-        "favicon_domain": "svt.se"
-      },
-      {
-        "title": "DN",
-        "url": "https://www.dn.se/",
-        "favicon_domain": "dn.se"
-      },
-      {
-        "title": "NA",
-        "url": "https://www.na.se/",
-        "favicon_domain": "na.se"
-      },
-      {
-        "title": "Metro Gaming",
-        "url": "https://metro.co.uk/entertainment/gaming/",
-        "favicon_domain": "metro.co.uk"
-      },
-      {
-        "title": "Feedly",
-        "url": "https://feedly.com/i/my",
-        "favicon_domain": "feedly.comt"
-      }
-    ]
-  },
-  {
-    "items": [
-      {
-        "title": "http://localhost:4200",
-        "url": "http://localhost:4200",
-        "favicon_domain": "localhost"
-      },
-      {
-        "title": "Meps Dev",
-        "url": "https://dev.meps.se",
-        "favicon_domain": "dev.meps.se"
-      },
-      {
-        "title": "Meps Test",
-        "url": "https://test.meps.se",
-        "favicon_domain": "test.meps.se"
-      },
-      {
-        "title": "Meps QA",
-        "url": "https://qa.meps.se",
-        "favicon_domain": "qa.meps.se"
-      },
-      {
-        "title": "Meps Staging",
-        "url": "https://staging.meps.net",
-        "favicon_domain": "staging.meps.net"
-      },
-      {
-        "title": "Meps Prod",
-        "url": "https://meps.net",
-        "favicon_domain": "meps.net"
-      }
-    ]
-  },
-  {
-    "items": [
-      {
-        "title": "Property Config Dev",
-        "url": "https://propertyconfigwebdev.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Config Test",
-        "url": "https://propertyconfigwebtest.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Config QA",
-        "url": "https://propertyconfigwebqa.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Config Staging",
-        "url": "https://propertyconfigwebstaging.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Config Prod",
-        "url": "https://propertyconfigwebprod.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      }
-    ]
-  },
-  {
-    "items": [
-      {
-        "title": "Property Toggles Dev",
-        "url": "https://propertytoggleswebdev.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Toggles Test",
-        "url": "https://propertytoggleswebtest.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Toggles QA",
-        "url": "https://propertytoggleswebqa.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Toggles Staging",
-        "url": "https://propertytoggleswebstaging.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      },
-      {
-        "title": "Property Toggles Prod",
-        "url": "https://propertytoggleswebprod.azurewebsites.net/",
-        "favicon_domain": "meps.net"
-      }
-    ]
-  },
-  {
-    "items": [
-      {
-        "title": "Väder i Örebro",
-        "url": "https://www.yr.no/place/Sverige/%C3%96rebro/%C3%96rebro/avansert_meteogram.svg",
-        "favicon_domain": "yr.no"
-      },
-      {
-        "title": "Romme - Öppna backar och liftar",
-        "url": "https://www.rommealpin.se/sv/skidakning/oppna-backar-och-liftar",
-        "favicon_domain": "rommealpin.se"
-      },
-      {
-        "title": "Edit bookmarks",
-        "url": "https://github.com/larsabrasha/bookmarks/edit/master/_data/bookmarks.json",
-        "favicon_domain": "github.com"
+        "items": [
+          {
+            "title": "Edit bookmarks",
+            "url": "https://github.com/larsabrasha/bookmarks/edit/master/_data/bookmarks.json",
+            "favicon_domain": "github.com"
+          }
+        ]
       }
     ]
   }
