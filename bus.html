@@ -11,16 +11,14 @@ title: Info
     </h4>
 
     {% for schema in route.schemas %}
-    <table class="table table-sm">
+    <div>
+      <strong>{{ schema.title }}</strong>
+    </div>
+    <table class="table table-sm ">
       <colgroup>
         <col width="30px" />
         <col />
       </colgroup>
-      <thead>
-        <tr>
-          <th colspan="2">{{ schema.title }}</th>
-        </tr>
-      </thead>
       <tbody>
         {% for trip in schema.trips %}
         <tr>
