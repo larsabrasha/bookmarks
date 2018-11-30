@@ -1,0 +1,40 @@
+---
+layout: default
+title: Info
+---
+
+<div class="row">
+  {% for route in site.data.bus %}
+  <div class="col">
+    <h4>
+      {{ route.title }} <span class="text-muted h6">{{ route.period }}</span>
+    </h4>
+
+    {% for schema in route.schemas %}
+    <table class="table table-sm">
+      <colgroup>
+        <col width="30px" />
+        <col />
+      </colgroup>
+      <thead>
+        <tr>
+          <th colspan="2">{{ schema.title }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for trip in schema.trips %}
+        <tr>
+          <td class="font-weight-bold">{{ trip.hour }}</td>
+          <td style="word-spacing: 10px">
+            {% for minute in trip.minutes %} <span>{{ minute }} </span> {%
+            endfor %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>

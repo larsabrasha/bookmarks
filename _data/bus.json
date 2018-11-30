@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Hovsta → Slottet",
+    "period": "20 aug - 8 dec 2018",
+    "schemas": [
+      {
+        "title": "Måndag - Fredag",
+        "trips": [
+          {
+            "hour": 5,
+            "minutes": [23, 52]
+          },
+          {
+            "hour": 6,
+            "minutes": [22, 38, 48, 57]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Slottet → Hovsta",
+    "period": "20 aug - 8 dec 2018",
+    "schemas": [
+      {
+        "title": "Måndag - Fredag",
+        "trips": []
+      }
+    ]
+  }
+]
