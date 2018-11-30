@@ -107,11 +107,6 @@
             "favicon_domain": "angular.io"
           },
           {
-            "title": "Angular Docs",
-            "url": "https://angular.io/docs",
-            "favicon_domain": "angular.io"
-          },
-          {
             "title": "NGXS Docs",
             "url": "https://ngxs.gitbook.io/ngxs/",
             "favicon_domain": "ngxs.gitbook.io"
