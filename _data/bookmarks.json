@@ -87,6 +87,25 @@
       {
         "items": [
           {
+            "title": "Bootstrap Components",
+            "url": "http://getbootstrap.com/docs/4.1/components/alerts/",
+            "favicon_domain": "getbootstrap.com"
+          },
+          {
+            "title": "Hacker News",
+            "url": "https://news.ycombinator.com",
+            "favicon_domain": "news.ycombinator.com"
+          },
+          {
+            "title": "Font Awesome Free Icons",
+            "url": "https://fontawesome.com/icons?d=gallery&m=free",
+            "favicon_domain": "fontawesome.com"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
             "title": "Meps New Calculation localhost",
             "url": "http://localhost:4200",
             "favicon_domain": "meps.net"
@@ -217,19 +236,6 @@
             "title": "Raygun Edu",
             "url": "https://app.raygun.com/crashreporting/fr37wn",
             "favicon_domain": "app.raygun.com"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "groups": [
-      {
-        "items": [
-          {
-            "title": "Edit bookmarks",
-            "url": "https://github.com/larsabrasha/bookmarks/edit/master/_data/bookmarks.json",
-            "favicon_domain": "github.com"
           }
         ]
       }
