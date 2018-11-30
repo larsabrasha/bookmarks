@@ -29,6 +29,11 @@
             "favicon_domain": "feber.se"
           },
           {
+            "title": "The Verge",
+            "url": "https://www.theverge.com",
+            "favicon_domain": "theverge.com"
+          },
+          {
             "title": "Metro Gaming",
             "url": "https://metro.co.uk/entertainment/gaming/",
             "favicon_domain": "metro.co.uk"
@@ -42,6 +47,11 @@
             "title": "Väder i Örebro",
             "url": "https://www.yr.no/place/Sverige/%C3%96rebro/%C3%96rebro/avansert_meteogram.svg",
             "favicon_domain": "yr.no"
+          },
+          {
+            "title": "Tv-tablå",
+            "url": "https://tv-tabla.se",
+            "favicons_domain": "tv-tabla.se"
           },
           {
             "title": "Romme - Öppna backar och liftar",
