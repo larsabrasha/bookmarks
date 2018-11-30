@@ -18,17 +18,18 @@ title: Info
       <strong>{{ schema.title }}</strong>
     </div>
     <table class="table table-sm ">
-      <colgroup>
-        <col width="30px" />
-        <col />
-      </colgroup>
       <tbody>
         {% for trip in schema.trips %}
         <tr>
-          <td class="font-weight-bold">{{ trip.hour }}</td>
-          <td style="word-spacing: 10px">
-            {% for minute in trip.minutes %} <span>{{ minute }} </span> {%
-            endfor %}
+          <td>
+            <span class="font-weight-bold d-inline-block" style="width: 25px">{{
+              trip.hour
+            }}</span>
+            {% for minute in trip.minutes %}
+            <span class="d-inline-block" style="width: 25px"
+              >{{ minute }}
+            </span>
+            {% endfor %}
           </td>
         </tr>
         {% endfor %}
