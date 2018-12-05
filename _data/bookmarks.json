@@ -96,6 +96,11 @@
             "title": "CAB Map",
             "url": "https://cabmap.azurewebsites.net/",
             "favicon_domain": "cabmap.azurewebsites.net"
+          },
+          {
+            "title": "Innebandy CAB",
+            "url": "http://www.bokat.se/eventInfoOpen.jsp?eventId=51349155448476",
+            "favicon_domain": "bokat.se"
           }
         ]
       },
