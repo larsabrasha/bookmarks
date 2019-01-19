@@ -5,7 +5,7 @@
         "items": [
           {
             "title": "SVT Nyheter",
-            "url": "https://www.svt.se/nyheter/",
+            "url": "https://www.svt.se/",
             "favicon_domain": "svt.se"
           },
           {
@@ -135,6 +135,11 @@
             "title": "Can I use",
             "url": "https://caniuse.com/",
             "favicon_domain": "caniuse.com"
+          },
+          {
+            "title": "Regex Online",
+            "url": "https://regex101.com/",
+            "favicon_domain": "regex101.com"
           }
         ]
       },
