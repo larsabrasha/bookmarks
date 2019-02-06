@@ -101,6 +101,11 @@
             "title": "Innebandy CAB",
             "url": "http://www.bokat.se/eventInfoOpen.jsp?eventId=51349155448476",
             "favicon_domain": "bokat.se"
+          },
+          {
+            "title": "Tidrapportering",
+            "url": "https://webmyway199.navmoln.se/myway199o365/",
+            "favicon_domain": "webmyway199.navmoln.se"
           }
         ]
       },
