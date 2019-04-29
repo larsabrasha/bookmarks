@@ -64,7 +64,7 @@
         "items": [
           {
             "title": "Backlog items",
-            "url": "http://tfs/tfs/MEPS/MEPS/Team%20Carbo/_backlogs/board/Backlog%20items",
+            "url": "https://dev.azure.com/cab-property/MEPS/Team%20Carbo/_boards/board/t/Team%20Carbo/Backlog%20items",
             "favicon_domain": "cab.se"
           },
           {
