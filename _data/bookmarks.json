@@ -74,7 +74,7 @@
           },
           {
             "title": "Azure DevOps Builds",
-            "url": "https://dev.azure.com/cab-property/MEPS/_build",
+            "url": "https://dev.azure.com/cab-property/MEPS/_build?path=%5C",
             "favicon_domain": "dev.azure.com"
           },
           {
