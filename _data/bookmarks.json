@@ -73,6 +73,11 @@
             "favicon_domain": "jetbrains.com"
           },
           {
+            "title": "Azure DevOps Builds",
+            "url": "https://dev.azure.com/cab-property/MEPS/_build",
+            "favicon_domain": "dev.azure.com"
+          },
+          {
             "title": "Octopus Deploy",
             "url": "http://tfsdeploy01/app#/",
             "favicon_domain": "octopus.com"
