@@ -34,6 +34,11 @@
             "favicon_domain": "theverge.com"
           },
           {
+            "title": "Hacker News",
+            "url": "https://news.ycombinator.com",
+            "favicon_domain": "news.ycombinator.com"
+          },
+          {
             "title": "Metro Gaming",
             "url": "https://metro.co.uk/entertainment/gaming/",
             "favicon_domain": "metro.co.uk"
@@ -63,24 +68,19 @@
       {
         "items": [
           {
-            "title": "Team Carbo Board",
+            "title": "Carbo Board",
             "url": "https://dev.azure.com/cab-property/MEPS/_boards/board/t/Team%20Carbo/Backlog%20items?team=Team%20Carbo",
-            "favicon_domain": "cab.se"
+            "favicon_domain": "dev.azure.com"
           },
           {
-            "title": "TeamCity",
-            "url": "http://teamcity/overview.html",
-            "favicon_domain": "jetbrains.com"
+            "title": "Carbo Builds",
+            "url": "https://dev.azure.com/cab-property/MEPS/_dashboards/dashboard/ae0cea2c-d5c1-4c0d-a44d-2ad6f8ea3ca3",
+            "favicon_domain": "dev.azure.com"
           },
           {
             "title": "Azure DevOps Builds",
             "url": "https://dev.azure.com/cab-property/MEPS/_build?path=%5C",
             "favicon_domain": "dev.azure.com"
-          },
-          {
-            "title": "Octopus Deploy",
-            "url": "http://tfsdeploy01/app#/",
-            "favicon_domain": "octopus.com"
           },
           {
             "title": "Azure Portal",
@@ -92,6 +92,16 @@
             "url": "https://cabgroup.freshdesk.com/a/tickets/filters/211653",
             "favicon_domain": "freshdesk.com"
           },
+          {
+            "title": "TeamCity",
+            "url": "http://teamcity/overview.html",
+            "favicon_domain": "jetbrains.com"
+          },          
+          {
+            "title": "Octopus Deploy",
+            "url": "http://tfsdeploy01/app#/",
+            "favicon_domain": "octopus.com"
+          },          
           {
             "title": "CAB Sverige",
             "url": "https://cabnet.sharepoint.com/cabsverige",
@@ -120,11 +130,6 @@
             "title": "Bootstrap Components",
             "url": "http://getbootstrap.com/docs",
             "favicon_domain": "getbootstrap.com"
-          },
-          {
-            "title": "Hacker News",
-            "url": "https://news.ycombinator.com",
-            "favicon_domain": "news.ycombinator.com"
           },
           {
             "title": "Font Awesome Free Icons",
