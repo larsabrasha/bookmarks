@@ -88,6 +88,11 @@
             "favicon_domain": "azure.com"
           },
           {
+            "title": "Application Insights",
+            "url": "https://portal.azure.com/?l=en.sv-se#@cab.se/resource/subscriptions/7cf1f32d-745c-4499-8baa-a5bb7cc400e7/resourceGroups/Property-Generic-Prod/providers/microsoft.insights/components/PropertyAppInsightsProd/logs",
+            "favicon_domain": "azure.com"
+          },
+          {
             "title": "Freshdesk",
             "url": "https://cabgroup.freshdesk.com/a/tickets/filters/211653",
             "favicon_domain": "freshdesk.com"
