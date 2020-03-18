@@ -14,12 +14,19 @@ title: Bokmärken
         class="list-group-item list-group-item-action py-2 px-3"
         title="{{item.url}}"
       >
+        {% if item.favicon_domain != null %}
+        <img
+          src="https://external-content.duckduckgo.com/ip3/{{item.favicon_domain}}.ico"
+          width="16"
+          height="16"
+        />
+        {% else %}
         <img
           src="https://www.google.com/s2/favicons?domain={{item.favicon_domain}}"
           width="16"
           height="16"
         />
-        {{ item.title }}
+        {% endif %} {{ item.title }}
       </a>
       {% endfor %}
     </div>

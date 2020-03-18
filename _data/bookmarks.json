@@ -46,7 +46,7 @@
           {
             "title": "Feedly",
             "url": "https://feedly.com/i/my",
-            "favicon_domain": "feedly.comt"
+            "favicon_domain": "feedly.com"
           },
           {
             "title": "Väder i Örebro",
@@ -56,12 +56,12 @@
           {
             "title": "Tv-tablå",
             "url": "https://tv-tabla.se",
-            "favicons_domain": "tvtider.se"
+            "favicon_domain": "tv-tabla.se"
           },
           {
             "title": "Romme - Öppna backar och liftar",
             "url": "https://www.rommealpin.se/sv/skidakning/oppna-backar-och-liftar",
-            "favicon_domain": "rommealpin.se"
+            "favicon_domain": "www.rommealpin.se"
           }
         ]
       },
@@ -71,16 +71,6 @@
             "title": "Kanban Board",
             "url": "https://dev.azure.com/cab-property/MEPS/_boards/board/t/Team%20Carbo/Backlog%20items?team=Team%20Carbo",
             "favicon_domain": "dev.azure.com"
-          },
-          {
-            "title": "Azure Portal",
-            "url": "https://portal.azure.com",
-            "favicon_domain": "azure.com"
-          },
-          {
-            "title": "Application Insights Prod",
-            "url": "https://portal.azure.com/?l=en.sv-se#@cab.se/resource/subscriptions/7cf1f32d-745c-4499-8baa-a5bb7cc400e7/resourceGroups/Property-Generic-Prod/providers/microsoft.insights/components/PropertyAppInsightsProd/logs",
-            "favicon_domain": "azure.com"
           },
           {
             "title": "All Carbo Builds",
@@ -116,6 +106,16 @@
             "title": "Meps.Calculation.App Releases",
             "url": "https://dev.azure.com/cab-property/MEPS/_release?_a=releases&view=mine&definitionId=73",
             "favicon_domain": "dev.azure.com"
+          },
+          {
+            "title": "Azure Portal",
+            "url": "https://portal.azure.com",
+            "favicon_domain": "portal.azure.com"
+          },
+          {
+            "title": "Application Insights Prod",
+            "url": "https://portal.azure.com/?l=en.sv-se#@cab.se/resource/subscriptions/7cf1f32d-745c-4499-8baa-a5bb7cc400e7/resourceGroups/Property-Generic-Prod/providers/microsoft.insights/components/PropertyAppInsightsProd/logs",
+            "favicon_domain": "portal.azure.com"
           }
         ]
       },
@@ -129,12 +129,12 @@
           {
             "title": "CAB Sverige",
             "url": "https://cabnet.sharepoint.com/cabsverige",
-            "favicon_domain": "cab.se"
+            "favicon_domain": "status.cab.se"
           },
           {
             "title": "CAB Map",
             "url": "https://cabmap.azurewebsites.net/",
-            "favicon_domain": "cabmap.azurewebsites.net"
+            "favicon_domain": "status.cab.se"
           },
           {
             "title": "Tidrapportering",
