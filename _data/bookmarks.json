@@ -68,18 +68,8 @@
       {
         "items": [
           {
-            "title": "Carbo Board",
+            "title": "Kanban Board",
             "url": "https://dev.azure.com/cab-property/MEPS/_boards/board/t/Team%20Carbo/Backlog%20items?team=Team%20Carbo",
-            "favicon_domain": "dev.azure.com"
-          },
-          {
-            "title": "Carbo Builds",
-            "url": "https://dev.azure.com/cab-property/MEPS/_dashboards/dashboard/ae0cea2c-d5c1-4c0d-a44d-2ad6f8ea3ca3",
-            "favicon_domain": "dev.azure.com"
-          },
-          {
-            "title": "Azure DevOps Builds",
-            "url": "https://dev.azure.com/cab-property/MEPS/_build?path=%5C",
             "favicon_domain": "dev.azure.com"
           },
           {
@@ -88,25 +78,54 @@
             "favicon_domain": "azure.com"
           },
           {
-            "title": "Application Insights",
+            "title": "Application Insights Prod",
             "url": "https://portal.azure.com/?l=en.sv-se#@cab.se/resource/subscriptions/7cf1f32d-745c-4499-8baa-a5bb7cc400e7/resourceGroups/Property-Generic-Prod/providers/microsoft.insights/components/PropertyAppInsightsProd/logs",
             "favicon_domain": "azure.com"
           },
+          {
+            "title": "All Carbo Builds",
+            "url": "https://dev.azure.com/cab-property/MEPS/_dashboards/dashboard/ae0cea2c-d5c1-4c0d-a44d-2ad6f8ea3ca3",
+            "favicon_domain": "dev.azure.com"
+          },
+          {
+            "title": "Meps.Calculations.Api Builds",
+            "url": "https://dev.azure.com/cab-property/MEPS/_build?definitionId=97&_a=summary",
+            "favicon_domain": "dev.azure.com"
+          },
+          {
+            "title": "Meps.Calculations.Api Releases",
+            "url": "https://dev.azure.com/cab-property/MEPS/_release?_a=releases&view=mine&definitionId=64",
+            "favicon_domain": "dev.azure.com"
+          },
+          {
+            "title": "Meps.Calculation.Api Builds",
+            "url": "https://dev.azure.com/cab-property/MEPS/_build?definitionId=95&_a=summary&view=runs",
+            "favicon_domain": "dev.azure.com"
+          },
+          {
+            "title": "Meps.Calculation.Api Releases",
+            "url": "https://dev.azure.com/cab-property/MEPS/_release?_a=releases&view=mine&definitionId=62",
+            "favicon_domain": "dev.azure.com"
+          },
+          {
+            "title": "Meps.Calculation.App Builds",
+            "url": "https://dev.azure.com/cab-property/MEPS/_build?definitionId=99&_a=summary",
+            "favicon_domain": "dev.azure.com"
+          },
+          {
+            "title": "Meps.Calculation.App Releases",
+            "url": "https://dev.azure.com/cab-property/MEPS/_release?_a=releases&view=mine&definitionId=73",
+            "favicon_domain": "dev.azure.com"
+          }
+        ]
+      },
+      {
+        "items": [
           {
             "title": "Freshdesk",
             "url": "https://cabgroup.freshdesk.com/a/tickets/filters/211653",
             "favicon_domain": "freshdesk.com"
           },
-          {
-            "title": "TeamCity",
-            "url": "http://teamcity/overview.html",
-            "favicon_domain": "jetbrains.com"
-          },          
-          {
-            "title": "Octopus Deploy",
-            "url": "http://tfsdeploy01/app#/",
-            "favicon_domain": "octopus.com"
-          },          
           {
             "title": "CAB Sverige",
             "url": "https://cabnet.sharepoint.com/cabsverige",
@@ -116,11 +135,6 @@
             "title": "CAB Map",
             "url": "https://cabmap.azurewebsites.net/",
             "favicon_domain": "cabmap.azurewebsites.net"
-          },
-          {
-            "title": "Innebandy CAB",
-            "url": "http://www.bokat.se/eventInfoOpen.jsp?eventId=51349155448476",
-            "favicon_domain": "bokat.se"
           },
           {
             "title": "Tidrapportering",
@@ -223,11 +237,6 @@
             "title": "Property Config Prod",
             "url": "https://propertyconfigwebprod.azurewebsites.net/",
             "favicon_domain": "meps.net"
-          },
-          {
-            "title": "Property Config Edu",
-            "url": "https://propertyconfigwebedu.azurewebsites.net/",
-            "favicon_domain": "meps.net"
           }
         ]
       },
@@ -257,11 +266,6 @@
             "title": "Property Toggles Prod",
             "url": "https://propertytoggleswebprod.azurewebsites.net/",
             "favicon_domain": "meps.net"
-          },
-          {
-            "title": "Property Toggles Edu",
-            "url": "https://propertytoggleswebedu.azurewebsites.net/",
-            "favicon_domain": "meps.net"
           }
         ]
       },
@@ -290,11 +294,6 @@
           {
             "title": "Raygun Prod",
             "url": "https://app.raygun.com/crashreporting/f9bd0u",
-            "favicon_domain": "app.raygun.com"
-          },
-          {
-            "title": "Raygun Edu",
-            "url": "https://app.raygun.com/crashreporting/fr37wn",
             "favicon_domain": "app.raygun.com"
           }
         ]
