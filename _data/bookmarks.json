@@ -116,6 +116,11 @@
             "title": "Application Insights Prod",
             "url": "https://portal.azure.com/?l=en.sv-se#@cab.se/resource/subscriptions/7cf1f32d-745c-4499-8baa-a5bb7cc400e7/resourceGroups/Property-Generic-Prod/providers/microsoft.insights/components/PropertyAppInsightsProd/logs",
             "favicon_domain": "portal.azure.com"
+          },
+          {
+            "title": "Team Carbo Dashboard",
+            "url": "https://portal.azure.com/?l=en.sv-se#@cab.se/dashboard/arm/subscriptions/7cf1f32d-745c-4499-8baa-a5bb7cc400e7/resourcegroups/dashboards/providers/microsoft.portal/dashboards/1532e2f3-90b5-43e3-98e8-9a772c3d0606",
+            "favicon_domain": "portal.azure.com"
           }
         ]
       },
