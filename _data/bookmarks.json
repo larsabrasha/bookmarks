@@ -121,6 +121,11 @@
             "title": "Team Carbo Dashboard",
             "url": "https://portal.azure.com/?l=en.sv-se#@cab.se/dashboard/arm/subscriptions/7cf1f32d-745c-4499-8baa-a5bb7cc400e7/resourcegroups/dashboards/providers/microsoft.portal/dashboards/1532e2f3-90b5-43e3-98e8-9a772c3d0606",
             "favicon_domain": "portal.azure.com"
+          },
+          {
+            "title": "Azure PIM",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/ResourceMenuBlade/MyActions/resourceId/f4c14ef7-e59f-4c07-a264-53aaf40e9886/resourceType/subscription/provider/azurerbac/resourceDisplayName/MEPS-Prod/resourceExternalId/%2Fsubscriptions%2F7cf1f32d-745c-4499-8baa-a5bb7cc400e7",
+            "favicon_domain": "portal.azure.com"
           }
         ]
       },
