@@ -280,6 +280,36 @@
         ]
       },
       {
+        "items":[
+          {
+            "title": "Property Release Gate Dev",
+            "url": "https://propertyreleasegatewebdev.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Release Gate Test",
+            "url": "https://propertyreleasegatewebtest.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Release Gate QA",
+            "url": "https://propertyreleasegatewebqa.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Release Gate Staging",
+            "url": "https://propertyreleasegatewebstaging.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          },
+          {
+            "title": "Property Release Gate Prod",
+            "url": "https://propertyreleasegatewebprod.azurewebsites.net/",
+            "favicon_domain": "meps.net"
+          }
+        ]
+      }
+      ,
+      {
         "items": [
           {
             "title": "Raygun Dev",
